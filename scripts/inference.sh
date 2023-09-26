@@ -3,7 +3,7 @@ set -x
 CONFIG=$1
 CKPT=$2
 VIDEO=$3
-OUTDIR=${4:-"./examples/res"}
+OUTDIR=${4:-"./output"}
 
 python scripts/demo_inference.py \
     --cfg ${CONFIG} \

@@ -1,0 +1,1 @@
+scripts\inference.bat configs\halpe_26\resnet\256x192_res50_lr1e-3_1x.yaml pretrained_models\halpe26_fast_res50_256x192.pth E:\ore\douga\mafuyu.mp4
